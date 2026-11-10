@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "/opt/homebrew/Cellar/php/8.5.12_1/bin/php",
+            "args": [
+                "/Users/mac/workflow-first/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
